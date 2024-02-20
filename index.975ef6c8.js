@@ -27182,7 +27182,7 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a UI/UX student studying at G H Raison Collage of Engineering Nagpur. I enjoy creating unique and simplistic user interfaces in creative ways.";
+ */ const description = "I'm a UI/UX student studying at G H Raisoni Collage Of Engineering. I enjoy creating unique and simplistic user interfaces in creative ways.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -28624,7 +28624,7 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  * freely use on your site.
  */ var _whiteBackgroundJpg = require("../images/white_background.jpg");
 var _whiteBackgroundJpgDefault = parcelHelpers.interopDefault(_whiteBackgroundJpg);
-const imageAltText = "world_background";
+const imageAltText = "white_background";
 const Home = ({ name , title  })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         id: "home",

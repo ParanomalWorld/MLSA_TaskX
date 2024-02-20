@@ -8,7 +8,7 @@
     "start": "parcel",
     "build": "parcel build",
     "build-gh": "parcel build --public-url 'https://ParanomalWorld.github.io/MLSA_TaskX'",
-    "predeploy": "npm run build-gh",https://github.com/ParanomalWorld/MLSA_TaskX
+    "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
   "repository": {

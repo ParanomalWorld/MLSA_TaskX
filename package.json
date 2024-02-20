@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
+  "homepage": "https://github.com/ParanomalWorld/MLSA_TaskX",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{github-username}.github.io/{repo-name}'",
-    "predeploy": "npm run build-gh",
+    "build-gh": "parcel build --public-url 'https://ParanomalWorld.github.io/MLSA_TaskX'",
+    "predeploy": "npm run build-gh",https://github.com/ParanomalWorld/MLSA_TaskX
     "deploy": "gh-pages -d dist"
   },
   "repository": {
